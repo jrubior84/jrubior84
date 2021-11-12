@@ -1,5 +1,4 @@
-## Hello ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+## Hello :+1:
 
 My name is Javier, I'm from Ecuador.
 
